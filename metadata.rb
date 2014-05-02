@@ -1,4 +1,4 @@
-name             'k-base'
+name             'kumapon-base'
 maintainer       'YOUR_NAME'
 maintainer_email 'YOUR_EMAIL'
 license          'All rights reserved'
